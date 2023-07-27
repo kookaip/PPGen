@@ -1,3 +1,2 @@
-# A Rule-Based Question Answering System for GDPR-Compliant Privacy Policy Generation: A Study on Online Learning Platforms (OLPs)
+A replication package for a Question Answering-based GDPR-Compliant Privacy Policy Generation manuscript.
 
-This is a replication package for the paper.
