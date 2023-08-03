@@ -22,7 +22,7 @@ This folder contains the data and artifacts used and produced in Section 5.
 * Rule engine: contains all the components in the Engine (i.e., question repository, response repository and rules to decide the question flow and associated privacy clauses).
 
 ## Folder: Evaluation
-* Evaluation result: presents the evaluation results on readability, completeness and converage described in Section 6.
+* Evaluation result: presents the evaluation results on readability, completeness and coverage described in Section 6.
 
 ## References
 [1] Amaral, O., Abualhaija, S., Torre, D., Sabetzadeh, M., & Briand, L. (2021). AI-enabled Automation for Completeness Checking of Privacy Policies. IEEE Transactions on Software Engineering.
