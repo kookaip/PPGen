@@ -1,6 +1,6 @@
 # A replication package for an Interactive GDPR-Compliant Privacy Policy Generation for Online Learning Platforms manuscript.
 
-It contains 3 folders which contain data and results generated from the key processes described in the paper.
+There are 3 folders containing data and results generated from the key processes described in the paper.
 
 ## Folder: Privacy clause development
 This folder contains the data and artifacts used and produced in Section 4.
